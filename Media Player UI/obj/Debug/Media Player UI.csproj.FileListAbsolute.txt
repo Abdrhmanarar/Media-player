@@ -1,0 +1,12 @@
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\bin\Debug\Media Player UI.exe.config
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\bin\Debug\Media Player UI.exe
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\bin\Debug\Media Player UI.pdb
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\obj\Debug\Media Player UI.csprojAssemblyReference.cache
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\obj\Debug\Media_Player_UI.Form1.resources
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\obj\Debug\Media_Player_UI.Properties.Resources.resources
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\obj\Debug\Media Player UI.csproj.GenerateResource.cache
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\obj\Debug\Media Player UI.exe
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\obj\Debug\Media Player UI.pdb
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\obj\Debug\Media_Player_UI.Form2.resources
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\obj\Debug\Media_Player_UI.Form3.resources
+C:\Users\abdrh\Desktop\Test\C#\Media Player UI\Media Player UI\obj\Debug\Media Player UI.csproj.CoreCompileInputs.cache
